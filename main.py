@@ -1,6 +1,6 @@
 # calculadora simples
 
-import time # biblioteca para cronomentar uma pausa no calculo
+import time # biblioteca para cronomentrar uma pausa no calculo
 
 # função para somar os número escolhido pelop usuário
 def soma(x, y):
